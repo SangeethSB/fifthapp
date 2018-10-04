@@ -6,7 +6,8 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./html-table.component.css']
 })
 export class HtmlTableComponent implements OnInit {
-
+ testVariable = "Sangeeth";
+ 
   constructor() { }
 
   ngOnInit() {
